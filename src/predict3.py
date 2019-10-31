@@ -12,8 +12,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Import dataset
-data_train = pd.read_csv('Code_challenge_train.csv')
-data_test  = pd.read_csv('Code_challenge_test.csv')
+data_train = pd.read_csv('Code_train.csv')
+data_test  = pd.read_csv('Code_test.csv')
 
 # clear some specific columns
 data_train['x41'] = data_train['x41'].str.replace('$', '')
