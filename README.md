@@ -1,5 +1,6 @@
 # Pred-Techniques
-**Binary Classification
+Binary Classification
+***
 - Logistic Regression 
 - Random Forest
 - Artiﬁcial Neural Network
