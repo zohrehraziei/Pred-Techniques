@@ -99,7 +99,6 @@ y_pred_prob = classifier.predict_proba(X_ts)
 
 
 #CSV results
-#CSV results
 from pandas import DataFrame
 
 column = ['Probability of belonging to class 1 - Logistic Regression']
