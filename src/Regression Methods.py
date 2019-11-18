@@ -110,8 +110,7 @@ print('score: ', score(regressor, x_test, y_test))
 print('--------------------------------------------------------')
 
 
-#######################################################3
-##       Final Prediction:
+#####       Final Prediction:
  
 y_pred_final = regressor.predict(X_ts)
 
