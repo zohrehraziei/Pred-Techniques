@@ -4,6 +4,7 @@
 """
 
       Predict 1 : Logistic Regression (using scikit-learn package)
+      Author: Zohreh Raziei - raziei.z@husky.neu.edu
 
 """
 

@@ -4,6 +4,7 @@
 """
 
       Predict 2 : Random Forest (using scikit-learn package)
+      Author: Zohreh Raziei - raziei.z@husky.neu.edu
 
 """
 

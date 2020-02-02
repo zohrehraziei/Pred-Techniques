@@ -5,6 +5,7 @@
 
       Predict : Regression Methods(using scikit-learn package)
       A prediction task for rental home company 
+      Author: Zohreh Raziei - raziei.z@husky.neu.edu
 
 """
 
